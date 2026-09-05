@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>NftCache.Core</RootNamespace>
+    <AssemblyName>NftCache.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
